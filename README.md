@@ -10,6 +10,7 @@
     <script src="https://cdn.jsdelivr.net/gh/murakami-tatsumi/macro@master/pageview.js" type="text/javascript></script>
 
 ※必ずdivとscriptのペアをセットで指定してください。
+
 | divの属性 | 属性値の意味 |
 ----|---- 
 | id | 内容を表示したい文書のid（ページurlの最後の数字） |
