@@ -4,6 +4,9 @@
 ### 概要
 コンフルエンスのページ上に指定IDの文書内容を表示します。
 
+https://github.com/wamei/confluence-expand-child-pages
+の修正版です。
+
 ### 使用方法
 
     <div id="文書ID" edit="true/false" box="true/false"></div>
