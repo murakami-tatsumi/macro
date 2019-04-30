@@ -24,8 +24,8 @@
                     text: '編集',
                 });
                 edit_icon.addClass('aui-button aui-button-primary');
+                $content.prepend(edit_icon);
             }
-            $content.prepend(edit_icon);
             if ($div.attr('box') == 'true') {
                 $content.css({padding: '15px', border: 'solid 1px #aaa', borderRadius: '5px'});
             }
